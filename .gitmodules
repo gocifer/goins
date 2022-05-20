@@ -1,0 +1,12 @@
+[submodule "cilium"]
+	path = cilium
+	url = git@github.com:gocifer/goins-cli.git
+[submodule "daemon"]
+	path = daemon
+	url = git@github.com:gocifer/goins-dae.git
+[submodule "operator"]
+	path = operator
+	url = git@github.com:gocifer/goins-opr.git
+[submodule "bpf"]
+	path = bpf
+	url = git@github.com:gocifer/goins-bpf.git
